@@ -23,7 +23,7 @@ public class ModuloConexao {
         //armazena informacoes referemtes ao banco
         String url = "jdbc:mysql://localhost:3306/dbinfox";
         String user = "root";
-        String password = "ovelhapreta";
+        String password = " ";
         
         //estabelecendo a conexao com o banco
         try {
